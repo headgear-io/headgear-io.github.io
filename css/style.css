@@ -47,6 +47,7 @@ Primary use:    MultiPurpose Template
 21. Bottom menu / .bot-menu
 22. Google maps  /.google-map
 23. Footer / .footer
+23b. Privacy Policy
 24. Blog
     24.1. Pagination
     24.2. Comments
@@ -3621,6 +3622,15 @@ a.link-to-top{
     font-size: 48px;
 }
 
+/* ==============================
+   Privacy Policy
+   ============================== */
+.privacypolicyfooter {
+   color: #5f5f5f; 
+   font-size: 11px; 
+   font-weight: 300; 
+   line-height: 0.8;
+}
 
 /* ==============================
    Blog
